@@ -1,0 +1,200 @@
+text{
+    font-family: 'Roboto', sans-serif !important;
+}
+.information-compte{
+    text-align: right !important;
+}
+
+.btn:focus{
+  outline: none !important
+}
+.img-aris{
+    border-radius: 50% !important;
+    width: 40px;
+    height: 40px;
+    float: right;
+    margin-top: -20px;
+}
+.medi-body{
+    line-height: 15px !important;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+.text-gmeet{
+    font-size: x-large !important;
+    color: #606368;
+}
+.text-gmeet:hover{
+    color: #606368;
+}
+
+
+
+.img-gmeet{
+    width: 30px;
+    height: 30px;
+}
+
+.cadre-noir{
+    background-color: #252629;
+    color: white;
+    width: 666px !important;
+    height: 378px !important;
+    border-radius: 10px;
+}
+
+.option-vertical{
+    color: white;
+    margin-top: -355px !important;
+    margin-left: 630px;
+    float: left !important;
+}
+
+.option-vertical:hover{
+    color: white !important;
+    
+    
+}
+
+.text-gmeet-interface{
+    position: absolute !important;
+    top: 35%;
+    margin-left: 210px !important;
+    margin-top: 30px !important;
+    font-size: 22px !important;
+    color: white !important;
+}
+
+.text-gmeet-interface:hover{
+    cursor: default !important;
+}
+
+.btn1{
+border-radius: 25px !important;
+box-shadow: 0.5px 0.5px 0.5px 0.5px gray;
+margin-right: 15px !important;
+height: 45px !important;
+
+}
+
+.btn2{
+    border-radius: 25px !important;
+    background-color: white !important;
+    color: #4572e4 !important;
+    border: none !important;
+    box-shadow: 0.5px 0.5px 0.5px 0.5px gray;
+    height: 45px !important;
+}
+
+.phone{
+    color: #4572e4 !important;
+}
+.verification-son-image{
+    background-color: rgb(248, 245, 245) !important;
+    color: black !important;
+    border-radius: 25px !important;
+    border: none !important;
+    box-shadow: 0.1px 0.1px 0.1px 0.2px gray;
+    margin-bottom: 20px !important;
+    float: left !important;
+}
+
+.icon-checklist{
+    color: #4572e4 !important;
+}
+
+.option-horizontale{
+    color: white !important;
+    border-radius: 50%;
+    background-color: #4572e4 !important;
+    width: 25px !important;
+    height: 25px !important;
+    margin-top: 300px !important;
+    float: left;
+    margin-top: -40px !important;
+    margin-left: 20px !important;
+}
+
+.option-horizontale:hover{
+    cursor: default !important;
+}
+
+.point-horizontal{
+    margin-left: 4.6px !important;
+    margin-top: 5px !important;
+}
+
+
+.micro-option{
+    display: inline-block !important;
+    border: solid 1px white;
+    color: white !important;
+    border-radius: 50% !important;
+    width: 50px !important;
+    height: 50px !important;
+    margin-left: 270px !important;   
+    float: left;
+    margin-top: -65px !important;
+    margin-top: 20px;
+}
+
+.micro-option:hover{
+    background-color: gray !important;
+}
+
+.gmeet-micro{
+    display: inline-block !important;
+    margin-top: 16px !important;
+    margin-left: 18px !important;  
+    position: absolute !important;
+}
+
+.video-option{
+    display: inline-block !important;
+    border: solid 1px hsl(4, 74%, 45%);
+    color: white !important;
+    border-radius: 50% !important;
+    width: 50px !important;
+    height: 50px !important;
+    margin-left: 340px !important;   
+    float: left;
+    margin-top: -65px !important;
+    margin-top: 20px;
+    background-color: hsl(4, 74%, 45%) !important;
+}
+
+.video-option:hover{
+    background-color: red !important;
+}
+
+.gmeet-video{
+    display: inline-block !important;
+    margin-top: 16px !important;
+    margin-left: 15px !important;  
+    position: absolute !important; 
+}
+
+.user-background{
+    
+    color: white !important;
+    border-radius: 50%;
+    border: solid 1px white;
+    width: 50px !important;
+    height: 50px !important;
+    margin-top: 300px !important;
+    float: right;
+    margin-top: -65px !important;
+    margin-left: 20px !important;
+}
+
+.user-background:hover{
+    background-color: gray !important;
+}
+
+.user-avatar{
+    margin-top: 15px !important;
+    margin-left: 17px !important;
+}
